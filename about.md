@@ -9,7 +9,7 @@ I will get my PhD in Quantitative Investigative Psychology in early 2019. I am c
 <p>
  <u>Video</u>
  <br>
-Watch <a href="https://mega.nz/#!RJlTkQKD!ArKKBN0mkP0wU47evSBaso6mFlC9KXjMxS9VhWXykW4" target="_blank">here</a> how I presented to a diverse audience a 4 year-long data science project I conducted, in only 3 minutes! 
+Watch <a href="https://mega.nz/#!RJlTkQKD!ArKKBN0mkP0wU47evSBaso6mFlC9KXjMxS9VhWXykW4" target="_blank">here</a> how I presented to a diverse audience, in only 3 minutes, a 4 year-long data science project I conducted! 
  <br>
 Thanks to this performance I recently won the 3MT Coimbra Group Pitch Competition.
 </p>
