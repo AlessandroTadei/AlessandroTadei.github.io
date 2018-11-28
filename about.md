@@ -22,4 +22,4 @@ Read <a href="https://svenska.yle.fi/artikel/2018/04/12/undersokning-av-sexuella
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="https://drive.google.com/file/d/1XVyQS2D1i3JesKA3M5HfthbLOSVkE8Tx/view?usp=sharing" width="100%" height="900"></iframe>
+<img src="C:\Users\tadei\Desktop\CV Alessandro Tadei" width="100%" height="900">
