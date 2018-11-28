@@ -3,7 +3,7 @@ description: My data life
 author: Alessandro Tadei
 email: tadei.alessandro@gmail.com
 phone: Skype alessandro.tadei
-github: https://github.com/alessandrotadei
+github: https://alessandrotadei.github.io
 about: I am a Data Analyst and a Quantitative Researcher at Åbo Akademi University. I teach and work on machine learning techniques applied to criminal investigations.
 disqus_shortname: programming
 google_analytics: UA-130037681-1
@@ -26,8 +26,8 @@ social:
       link: "https://www.linkedin.com/in/alessandro-tadei/"
     # - icon: fa-stack-exchange
     #   link: "#"
-    #- icon: fa-github
-      #link: "https://github.com/tmjam"
+    - icon: fa-github
+      link: "https://github.com/alessandrotadei"
 
 #share:
   #twitter_username: tmjam3011
