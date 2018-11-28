@@ -25,4 +25,4 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 ## Resume  <a href="https://github.com/AlessandroTadei/AlessandroTadei.github.io/blob/master/static/pdfs/CV.pdf">(Download)</a>
  
-<img src="static/img/CV.jpg" alt="CV Alessandro Tadei" width="85%" height="85%">
+<img src="/CV.jpg" alt="CV Alessandro Tadei" width="85%" height="85%">
