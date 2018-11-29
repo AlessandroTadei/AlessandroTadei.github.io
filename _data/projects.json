@@ -29,7 +29,7 @@
 		"image": "Simulators.png",
 		"date": "Ongoing",
 		#"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
-		"description": "An extremely accurate classifiers that identifies false criminal reports.",
+		"description": "An extremely accurate classifier that identifies false criminal reports.",
 		"tags": ["R","Bayesian Networks","Data Science","Business related"]
 	},
 	{
