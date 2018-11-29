@@ -1,51 +1,67 @@
 [
 	{
 		"slug": "etrucking-soft",
-		"name": "Etrucking Software",
+		"name": "Increase Accuracy of Child Abuse Investigations",
 		"image": "etruckingsoft.png",
-		"url": "http://etruckingsoft.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS", "Nodejs", "HTML", "API"]
+		"url": "https://journals.sagepub.com/doi/10.1177/1079063217732791",
+		"date": "Sep 2017",
+		"tags": ["R", "Tableau", "Bayesian Networks", "Data Science", "Business related"]
 	},
 	{
-		"name": "Easy Links",
+		"name": "Judges' Ability to Evaluate Technical Testimonies",
 		"image": "easy-links.jpg",
-		"date": "May 2017",
-		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
-		"tags": ["Extension","Javascript"]
+		"url": "https://www.tandfonline.com/doi/full/10.1080/19012276.2015.1125303",
+		"date": "Jan 2016",
+		#"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
+		"tags": ["SPSS","Data Analysis"]
 	},
 	{
-		"name": "Live Band Club",
+		"name": "Selection of Expert Witnesses by Judges",
 		"image": "livebandclub.png",
-		"url": "http://livebandclub.com",
-		"date": "June 2016",
-		"tags": ["HTML","Javascript","PHP"]
+		"url": "https://www.tandfonline.com/doi/abs/10.1080/19012276.2014.963648",
+		"date": "Nov 2014",
+		"tags": ["SPSS","Data Analysis"]
 	},
 	{
-		"name": "Pavement Preservation Treatment Database",
+		"name": "Naive Bayes to Detect Liars",
 		"image": "pp_logo.png",
-		"date": "Oct 2015",
-		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
-		"tags": ["PHP","HTML"]
+		"date": "Ongoing",
+		#"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
+		"tags": ["R","Tableau","Bayesian Networks","Data Science","Business related"]
 	},
 	{
-		"name": "Street Saver Certification Program",
+		"name": "Exploring Police Decision-Making",
 		"image": "streetsaver.png",
-		"date": "Oct 2015",
-		"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
-		"tags": ["PHP","HTML","CMS"]
+		"date": "Jun 2018",
+		#"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
+		"tags": ["SPSS","Data Analysis","Business related"]
 	},
 	{
-		"name": "Tire Derived Aggregate",
+		"name": "User Experience Analysis",
 		"image": "tda.png",
-		"date": "Oct 2016",
-		"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
-		"tags": ["PHP","HTML","CMS"]
-	},{
-		"name": "JM Watts Chico",
+		"date": "Aug 2018",
+		#"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
+		"tags": ["SPSS","Data Analysis","Business related"]
+	},
+	{
+		"name": "Web Scraping and Data Pipeline",
 		"image": "jmwattschico.png",
-		"url": "http://jmwattschico.com/",
-		"date": "May 2017",
-		"tags": ["HTML","CSS","Javascript"]
+		#"url": "http://jmwattschico.com/",
+		"date": "Nov 2018",
+		"tags": ["R","Tableau","SQL","Data Science","Business related"]
+	},
+	{
+		"name": "Predictive Model for Car Consumes",
+		#"image": "jmwattschico.png",
+		#"url": "http://jmwattschico.com/",
+		"date": "Oct 2018",
+		"tags": ["R","Tableau","Data Science","Business related"]
+	},
+	{
+		"name": "Predictive Models for Stock Market Fluctuations ",
+		#"image": "jmwattschico.png",
+		#"url": "http://jmwattschico.com/",
+		"date": "Oct 2018",
+		"tags": ["R","Tableau","Data Science","Business related"]
 	}
 ]
