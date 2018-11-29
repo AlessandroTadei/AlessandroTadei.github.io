@@ -5,7 +5,7 @@
 		"image": "FICSA.png",
 		"url": "https://journals.sagepub.com/doi/10.1177/1079063217732791",
 		"date": "Sep 2017",
-		"tags": ["R", "Tableau", "Bayesian Networks", "Data Science", "Business related"]
+		"tags": ["R","Bayesian Networks", "Data Science", "Business related"]
 	},
 	{
 		"name": "Judges' Ability to Evaluate Technical Testimonies",
@@ -27,14 +27,14 @@
 		"image": "Simulators.png",
 		"date": "Ongoing",
 		#"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
-		"tags": ["R","Tableau","Bayesian Networks","Data Science","Business related"]
+		"tags": ["R","Bayesian Networks","Data Science","Business related"]
 	},
 	{
 		"name": "Exploring Police Decision-Making",
 		"image": "Police skills.png",
 		"date": "Jun 2018",
 		#"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
-		"tags": ["SPSS","Data Analysis","Business related"]
+		"tags": ["Tableau","SPSS","Data Analysis","Business related"]
 	},
 	{
 		"name": "User Experience Analysis",
