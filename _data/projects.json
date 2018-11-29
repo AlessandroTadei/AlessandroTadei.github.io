@@ -2,7 +2,7 @@
 	{
 		"slug": "etrucking-soft",
 		"name": "Increase Accuracy of Child Abuse Investigations",
-		"image": "etruckingsoft.png",
+		"image": "FICSA.png",
 		"url": "https://journals.sagepub.com/doi/10.1177/1079063217732791",
 		"date": "Sep 2017",
 		"tags": ["R", "Tableau", "Bayesian Networks", "Data Science", "Business related"]
@@ -24,7 +24,7 @@
 	},
 	{
 		"name": "Naive Bayes to Detect Liars",
-		"image": "pp_logo.png",
+		"image": "Simulators.png",
 		"date": "Ongoing",
 		#"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
 		"tags": ["R","Tableau","Bayesian Networks","Data Science","Business related"]
