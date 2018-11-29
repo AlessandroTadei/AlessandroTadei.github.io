@@ -5,6 +5,7 @@
 		"image": "FICSA.png",
 		"url": "https://journals.sagepub.com/doi/10.1177/1079063217732791",
 		"date": "Sep 2017",
+		"description": "A Naive Bayes classifier that quickly identifies real victims of child sexual abuse.",
 		"tags": ["R","Bayesian Networks", "Data Science", "Business related"]
 	},
 	{
@@ -12,7 +13,7 @@
 		"image": "Judges skills.png",
 		"url": "https://www.tandfonline.com/doi/full/10.1080/19012276.2015.1125303",
 		"date": "Jan 2016",
-		#"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
+		"description": "How good are Finnish judges in assessing expert witnesses testimonies?",
 		"tags": ["SPSS","Data Analysis"]
 	},
 	{
@@ -20,6 +21,7 @@
 		"image": "Expert selection.png",
 		"url": "https://www.tandfonline.com/doi/abs/10.1080/19012276.2014.963648",
 		"date": "Nov 2014",
+		"description": "Which criteria do judges use when selecting expert witnesses?",
 		"tags": ["SPSS","Data Analysis"]
 	},
 	{
@@ -27,6 +29,7 @@
 		"image": "Simulators.png",
 		"date": "Ongoing",
 		#"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
+		"description": "An extremely accurate classifiers that identifies false criminal reports.",
 		"tags": ["R","Bayesian Networks","Data Science","Business related"]
 	},
 	{
@@ -34,6 +37,7 @@
 		"image": "Police skills.png",
 		"date": "Jun 2018",
 		#"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
+		"description": "Can police give the right importance to the right pieces of evidence?",
 		"tags": ["Tableau","SPSS","Data Analysis","Business related"]
 	},
 	{
@@ -41,6 +45,7 @@
 		"image": "tda.png",
 		"date": "Aug 2018",
 		#"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
+		"description": "How good are the Finnish Investigative Units in using the classifier I developed?",
 		"tags": ["SPSS","Data Analysis","Business related"]
 	},
 	{
@@ -48,6 +53,7 @@
 		"image": "WebScraping.png",
 		#"url": "http://jmwattschico.com/",
 		"date": "Nov 2018",
+		"description": "A quick way to transform a messy website in a clean dataset!",
 		"tags": ["R","Tableau","SQL","Data Science","Business related"]
 	},
 	{
@@ -55,6 +61,7 @@
 		#"image": "jmwattschico.png",
 		#"url": "http://jmwattschico.com/",
 		"date": "Oct 2018",
+		"description": "Are new technologies decreasing car consumes? Which factors influence them the most?",
 		"tags": ["R","Tableau","Data Science","Business related"]
 	},
 	{
@@ -62,6 +69,7 @@
 		#"image": "jmwattschico.png",
 		#"url": "http://jmwattschico.com/",
 		"date": "Oct 2018",
+		"description": "Can Data Science help in predicting the stock market? It depends on the classifier!",
 		"tags": ["R","Tableau","Data Science","Business related"]
 	}
 ]
