@@ -45,7 +45,7 @@
 	},
 	{
 		"name": "Web Scraping and Data Pipeline",
-		"image": "jmwattschico.png",
+		"image": "WebScraping.png",
 		#"url": "http://jmwattschico.com/",
 		"date": "Nov 2018",
 		"tags": ["R","Tableau","SQL","Data Science","Business related"]
