@@ -42,11 +42,11 @@
 	},
 	{
 		"name": "User Experience Analysis",
-		"image": "tda.png",
+		"image": "User Experience.png",
 		"date": "Aug 2018",
 		#"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
 		"description": "How good are the Finnish Investigative Units in using the classifier I developed?",
-		"tags": ["SPSS","Data Analysis","Business related"]
+		"tags": ["Tableau","SPSS","Data Analysis","Business related"]
 	},
 	{
 		"name": "Web Scraping and Data Pipeline",
