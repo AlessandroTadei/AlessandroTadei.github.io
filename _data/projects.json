@@ -58,7 +58,7 @@
 	},
 	{
 		"name": "Predictive Model for Car Consumes",
-		#"image": "jmwattschico.png",
+		"image": "LinearRegressionCar.PNG",
 		#"url": "http://jmwattschico.com/",
 		"date": "Oct 2018",
 		"description": "Are new technologies decreasing car consumes? Which factors influence them the most?",
