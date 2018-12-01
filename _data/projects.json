@@ -6,7 +6,7 @@
 		"url": "https://journals.sagepub.com/doi/10.1177/1079063217732791",
 		"date": "Sep 2017",
 		"description": "A Naive Bayes classifier that quickly identifies real victims of child sexual abuse.",
-		"tags": ["R","Bayesian Networks", "Data Science", "Business related"]
+		"tags": ["R codes","Bayesian Networks", "Data Science", "Business related"]
 	},
 	{
 		"name": "Judges' Ability to Evaluate Technical Testimonies",
@@ -30,7 +30,7 @@
 		"date": "Ongoing",
 		#"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
 		"description": "An extremely accurate classifier that identifies false criminal reports.",
-		"tags": ["R","Bayesian Networks","Data Science","Business related"]
+		"tags": ["R codes","Bayesian Networks","Data Science","Business related"]
 	},
 	{
 		"name": "Exploring Police Decision-Making",
@@ -54,7 +54,7 @@
 		#"url": "http://jmwattschico.com/",
 		"date": "Nov 2018",
 		"description": "A quick way to transform a messy website in a clean dataset!",
-		"tags": ["R","Tableau","SQL","Data Science","Business related"]
+		"tags": ["R codes","Tableau","SQL","Data Science","Business related"]
 	},
 	{
 		"name": "Predictive Model for Car Consumes",
@@ -62,7 +62,7 @@
 		#"url": "http://jmwattschico.com/",
 		"date": "Oct 2018",
 		"description": "Are new technologies decreasing car consumes? Which factors influence them the most?",
-		"tags": ["R","Tableau","Data Science","Business related"]
+		"tags": ["R codes","Tableau","Data Science","Business related"]
 	},
 	{
 		"name": "Predictive Models for Stock Market Fluctuations ",
@@ -70,6 +70,6 @@
 		#"url": "http://jmwattschico.com/",
 		"date": "Oct 2018",
 		"description": "Can Data Science help in predicting the stock market? It depends on the classifier!",
-		"tags": ["R","Tableau","Data Science","Business related"]
+		"tags": ["R codes","Tableau","Data Science","Business related"]
 	}
 ]
