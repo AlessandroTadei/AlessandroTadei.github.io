@@ -109,6 +109,7 @@ layout: compress
       ga('create', '{{ site.google_analytics }}', 'auto');
       ga('send', 'pageview');
     </script>
+  {% seo %}
   </head>
   <body>
     <div class="container">
@@ -169,11 +170,4 @@ layout: compress
     <script src="{{ site.url }}/static/js/thickbox-compressed.js"></script>
     <script src="{{ site.url }}/static/js/projects.js"></script>
   </body>
-</html>
-
-<html>
-  <head>
-    {% include head.html %}
-    {% seo %}
-  </head>
 </html>
