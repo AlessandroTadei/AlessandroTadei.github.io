@@ -53,6 +53,7 @@
 		"name": "Web Scraping and Data Pipeline",
 		"image": "WebScraping.png",
 		#"url": "http://jmwattschico.com/",
+		"rcode": "https://github.com/AlessandroTadei/R-codes/blob/master/2.WebScrapingDataPipeline",
 		"date": "Nov 2018",
 		"description": "A quick way to transform a messy website in a clean dataset!",
 		"tags": ["R codes","Tableau","SQL","Data Science","Business related"]
