@@ -34,11 +34,11 @@ social:
   # fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
-      url: /about/
     - text: Projects
       url: /projects/
-    #- text: Blogs
+    - text: About Me
+      url: /about/
+        #- text: Blogs
       #url: /blogs/
     #- text: XML Feed
       #url: /feed.xml
