@@ -29,7 +29,7 @@
 		"image": "Simulators.png",
 		"date": "Ongoing",
 		#"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
-		"rcode": "https://github.com/AlessandroTadei/RcodesLiars/blob/master/code",
+		"rcode": "https://github.com/AlessandroTadei/R-codes/blob/master/1.%20ClassifierFalseReports",
 		"description": "An extremely accurate classifier that identifies false criminal reports.",
 		"tags": ["R codes","Bayesian Networks","Data Science","Business related"]
 	},
