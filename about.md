@@ -20,6 +20,16 @@ Read <a href="https://svenska.yle.fi/artikel/2018/04/12/undersokning-av-sexuella
   <br>
  A second interview for the local media (in Finnish) can be found <a href="https://www.kaleva.fi/uutiset/kotimaa/poliisi-saa-virtuaalilapsen-harjoituskumppaniksi-suomessa-kehitetty-ohjelma-viron-poliisin-testiin/771164" target="_blank">here</a>.
  </p>
+ <p>
+  <u>Oral Presentations in International Conferences</u> (Topic: Machine Learning Applications)
+   <br>
+ 2019: Bali (Indonesia) <br>
+ 2018: Porto (Portugal) <br>
+ 2017: San Diego (California, US); Mechelen (Belgium); Katowice (Poland) <br>
+ 2016: Uppsala (Sweden); Tampere (Finland) <br>
+ 2015: Atlanta (Georgia, US); Reykjavik (Iceland) <br>
+ 2014: St. Petersburg (Russia); Oslo (Norway) <br>
+ </p>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
