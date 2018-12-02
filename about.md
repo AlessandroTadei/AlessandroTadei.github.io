@@ -7,6 +7,15 @@ permalink: /about/
 I will get my PhD in Quantitative Investigative Psychology in early 2019. I am currently looking for a job as Data Scientist / Data Analyst in Europe. I would gladly start from a Junior position and I am ready to work hard to fulfill all the company's expectations.
 </p>
 <p>
+ <u>Prizes and Awards</u>
+ <br>
+ Winner of over 100,000€ in research grants
+ <br>
+ First place at the 3MT Coimbra Group Pitch Competition, Turku (Finland), 2018
+ <br>
+ Edward Schaeffer Award for the Best Research Presentation, Atlanta (Georgia, US), 2015
+ </p>
+<p>
  <u>Video</u>
  <br>
 Watch <a href="https://mega.nz/#!RJlTkQKD!ArKKBN0mkP0wU47evSBaso6mFlC9KXjMxS9VhWXykW4" target="_blank">here</a> how I presented to a diverse audience, in only 3 minutes, a 4 year-long data science project I conducted! 
