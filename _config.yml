@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-seo-tag
+
 title: Alessandro Tadei
 description: My data life
 author: Alessandro Tadei
