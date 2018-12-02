@@ -71,6 +71,7 @@
 		"name": "Predictive Models for Stock Market Fluctuations ",
 		"image": "SMarket.png",
 		#"url": "http://jmwattschico.com/",
+		"rcode": "https://github.com/AlessandroTadei/R-codes/blob/master/4.%20StockMarketFluctuations"
 		"date": "Oct 2018",
 		"description": "Can Data Science help in predicting the stock market? It depends on the classifier!",
 		"tags": ["R codes","Tableau","Data Science","Business related"]
