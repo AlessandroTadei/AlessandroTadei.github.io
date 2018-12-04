@@ -6,4 +6,4 @@ permalink: /projects/
 
 This is a selection of the most important Data Science and Data Analysis projects I conducted.
 <br>
-Hover over the images for a short description!
+Click on the images for a short description of the project!
