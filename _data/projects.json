@@ -6,7 +6,7 @@
 		"url": "https://journals.sagepub.com/doi/10.1177/1079063217732791",
 		"date": "Sep 2017",
 		"description": "A Naive Bayes classifier that quickly identifies real victims of child sexual abuse.",
-		"tags": ["R codes","Bayesian Networks", "Data Science", "Business related"]
+		"tags": ["R codes","Bayesian Networks", "Machine Learning", "Business related"]
 	},
 	{
 		"name": "Judges' Ability to Evaluate Technical Testimonies",
@@ -14,7 +14,7 @@
 		"url": "https://www.tandfonline.com/doi/full/10.1080/19012276.2015.1125303",
 		"date": "Jan 2016",
 		"description": "How good are Finnish judges in assessing expert witnesses testimonies?",
-		"tags": ["SPSS","Data Analysis"]
+		"tags": ["SPSS"]
 	},
 	{
 		"name": "Selection of Expert Witnesses by Judges",
@@ -22,7 +22,7 @@
 		"url": "https://www.tandfonline.com/doi/abs/10.1080/19012276.2014.963648",
 		"date": "Nov 2014",
 		"description": "Which criteria do judges use when selecting expert witnesses?",
-		"tags": ["SPSS","Data Analysis"]
+		"tags": ["SPSS"]
 	},
 	{
 		"name": "Naive Bayes to Detect Liars",
@@ -31,7 +31,7 @@
 		#"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
 		"rcode": "https://github.com/AlessandroTadei/R-codes/blob/master/1.%20ClassifierFalseReports",
 		"description": "An extremely accurate classifier that identifies false criminal reports.",
-		"tags": ["R codes","Bayesian Networks","Data Science","Business related"]
+		"tags": ["R codes","Bayesian Networks","Machine Learning","Business related"]
 	},
 	{
 		"name": "Exploring Police Decision-Making",
@@ -39,7 +39,7 @@
 		"date": "Jun 2018",
 		#"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
 		"description": "Can police give the right importance to the right pieces of evidence?",
-		"tags": ["Tableau","SPSS","Data Analysis","Business related"]
+		"tags": ["Tableau","SPSS","Business related"]
 	},
 	{
 		"name": "User Experience Analysis",
@@ -47,7 +47,7 @@
 		"date": "Aug 2018",
 		#"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
 		"description": "How good are the Finnish Investigative Units in using the classifier I developed?",
-		"tags": ["Tableau","SPSS","Data Analysis","Business related"]
+		"tags": ["Tableau","SPSS","Business related"]
 	},
 	{
 		"name": "Web Scraping and Data Pipeline",
@@ -56,7 +56,7 @@
 		"rcode": "https://github.com/AlessandroTadei/R-codes/blob/master/2.WebScrapingDataPipeline",
 		"date": "Nov 2018",
 		"description": "A quick way to transform a messy website in a clean dataset!",
-		"tags": ["R codes","Tableau","SQL","Data Science","Business related"]
+		"tags": ["R codes","Tableau","SQL","Machine Learning","Business related"]
 	},
 	{
 		"name": "Predictive Model for Cars Fuel Consumption",
@@ -65,7 +65,7 @@
 		"rcode": "https://github.com/AlessandroTadei/R-codes/blob/master/3.%20CarConsumes",
 		"date": "Oct 2018",
 		"description": "Are new technologies decreasing cars fuel consumption? Which factors influence them the most?",
-		"tags": ["R codes","Tableau","Data Science","Business related"]
+		"tags": ["R codes","Tableau","Machine Learning","Business related"]
 	},
 	{
 		"name": "Predictive Models for Stock Market Fluctuations ",
@@ -74,6 +74,6 @@
 		"rcode": "https://github.com/AlessandroTadei/R-codes/blob/master/4.%20StockMarketFluctuations",
 		"date": "Oct 2018",
 		"description": "Can Data Science help in predicting the stock market? It depends on the classifier!",
-		"tags": ["R codes","Tableau","Data Science","Business related"]
+		"tags": ["R codes","Tableau","Machine Learning","Business related"]
 	}
 ]
