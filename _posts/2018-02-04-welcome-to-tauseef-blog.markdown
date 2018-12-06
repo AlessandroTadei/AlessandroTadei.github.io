@@ -3,7 +3,8 @@ layout: post
 title:  "Welcome to my blog!"
 date:   2018-12-06 21:28:15 +0700
 ---
-Hello! At the moment this blog is still empty, but my plan is to post here a more detailed description of my projects in Data Science. Stay Tuned!<!-- First of all, Thank you for stopping by.
+Hello! At the moment this blog is still empty, but my plan is to post here a more detailed description of my projects in Data Science. Stay Tuned!
+<!-- First of all, Thank you for stopping by.
 
 <!-- # Who am I?
 Hi, I am `Tauseef Jamadar`, a *Software Engineer* and a *Technology Enthusiast* from Chico, CA who loves to write software to build great products
