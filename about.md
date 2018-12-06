@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 <p>
-I will get my PhD in Quantitative Investigative Psychology in early 2019. I am currently looking for a job as Data Scientist / Data Analyst in Europe. I would gladly start from a Junior position and I am ready to work hard to fulfill all the company's expectations.
+I will get my PhD in Quantitative Investigative Psychology in early 2019. I am currently looking for a job as Data Scientist / Data Analyst in Europe. I am ready to work hard to fulfill all the company's expectations.
 </p>
 <p>
  <u>Prizes and Awards</u>
