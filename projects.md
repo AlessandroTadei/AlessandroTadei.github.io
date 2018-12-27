@@ -4,6 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-This is a selection of the most important Data Science and Data Analysis projects I conducted.
+This is a selection of the most important Data Science and Data Analysis projects and applications I conducted.
 <br>
-Click on the images for a short description of the project!
+Click on the images for a short description!
