@@ -9,6 +9,14 @@
 		"tags": ["R codes","Bayesian Networks", "Machine Learning", "Business related"]
 	},
 	{
+		"name": "A/B test Analyses - Big Data",
+		"image": "AB_test.jpg",
+		"date": "Dec 2018",
+		#"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
+		"description": "Difference in Difference analysis on 6 million observations in an A/B test",
+		"tags": ["R codes","SQL","Business related"]
+	},
+	{
 		"name": "Judges' Ability to Evaluate Technical Testimonies",
 		"image": "Judges skills.png",
 		"url": "https://www.tandfonline.com/doi/full/10.1080/19012276.2015.1125303",
