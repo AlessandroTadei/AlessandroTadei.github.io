@@ -15,7 +15,7 @@
 		#"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
 		"rcode": "https://github.com/AlessandroTadei/R-codes/blob/master/5.%20AB%20test%20analysis%20with%20DiD",
 		"description": "Difference in Difference analysis on 6 million observations in an A/B test",
-		"tags": ["R codes","SQL","Business related"]
+		"tags": ["R codes","SQL", "BigQuery", "Business related"]
 	},
 	{
 		"name": "Judges' Ability to Evaluate Technical Testimonies",
