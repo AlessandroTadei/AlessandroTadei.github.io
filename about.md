@@ -9,6 +9,10 @@ I will get my PhD in Quantitative Investigative Psychology in early 2019. I am c
 <p>
  <u>Prizes and Awards</u>
  <br>
+ Top 3 at the Tableau New Work SE Iron Viz Competition (<a href="https://public.tableau.com/views/NWSEIRONVIZ2021-AlessandroTadei/SuperstoresPerformance?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">dashboard</a>), Hamburg (Germany), 2021
+ <br>
+ Elvings Legat Award for best PhD dissertation of 2020 at Abo Akademi University, Turku (Finland), 2021
+ <br>
  Winner of over 100,000€ in research grants
  <br>
  First place at the 3MT Coimbra Group Pitch Competition, Turku (Finland), 2018
